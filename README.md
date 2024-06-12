@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">¡Hola! Soy José Alberto, intento de desarrollador.</h1>
+<h1 align="center">¡Hola! Soy José Alberto.</h1>
 
 ###
 

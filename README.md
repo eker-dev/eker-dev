@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">ISJ viene de las iniciales de mi hijo Iván, mi mujer Silvia y la mía propia.<br><br>Actualmente me encuentro re-reanudando y re-reaprendiendo Flutter, Dart, Kotlin y PostgreSQL<br><br>Aunque tengo el título de FPII (Desarrollo de aplicaciones web) no ejercí al 100% por designios de un destino caprichoso y ahora retomo el camino a raíz de unos hechos que me hicieron ver la vida de otra forma y contaré en un futuro blog aprovechando el aprendizaje.<br><br>Aquí podrás ver:<br><br>- 🔭 Proyectos personales.<br>- 📚 Proyectos de estudios.<br><br>Y algún que otro amigo tipo... gata, peces u hormigas.</p>
+<p align="left">ISJ viene de las iniciales de mi hijo Iván, mi mujer Silvia y la mía propia.<br><br>Actualmente me encuentro re-reanudando y re-reaprendiendo Flutter, Dart, Kotlin, Python y PostgreSQL<br><br>Aunque tengo el título de FPII (Desarrollo de aplicaciones web) no ejercí al 100% por designios de un destino caprichoso y ahora retomo el camino a raíz de unos hechos que me hicieron ver la vida de otra forma y contaré en un futuro blog aprovechando el aprendizaje.<br><br>Aquí podrás ver:<br><br>- 🔭 Proyectos personales.<br>- 📚 Proyectos de estudios.<br><br>Y algún que otro amigo tipo... gata, peces u hormigas.</p>
 
 ###
 
